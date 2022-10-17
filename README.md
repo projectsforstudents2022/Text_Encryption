@@ -14,4 +14,4 @@ $ wine Encryption_Algo.exe
 ```
 3) Choose Options Accordinagly
 
-![Screenshot] (Enc_Alg.PNG)
+![Screenshot](Enc_Alg.PNG)
